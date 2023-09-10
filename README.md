@@ -10,3 +10,12 @@ A historical perspective reveals that during the World War II period (1940-1945)
 However, it's crucial to acknowledge that this analysis does not encompass certain critical factors, including security, building type, proximity to recreational facilities, and population concentration. Additionally, anomalies such as properties with incorrect property features or labels were detected during the data cleaning and analysis process. Household income profiles were accurate as of 2021 and aggregated for Local Government Areas, leading to the grouping of all properties within those areas for analysis. Furthermore, when evaluating the impact of the distance to water bodies on property prices, only a subset of property locations was considered.
 
 These unaccounted elements may exert a more substantial influence on housing prices. Consequently, future studies should explore these aspects in greater detail to provide a more holistic understanding of the dynamics that shape housing prices in Perth.
+
+![image](https://github.com/SteveRamasamy/house_analysis/assets/142780119/7f94bf82-3f1b-4068-956d-5528ddc81f18)
+![image](https://github.com/SteveRamasamy/house_analysis/assets/142780119/7c6ffa68-1997-44e3-bf46-3e0a41774c3d)
+![image](https://github.com/SteveRamasamy/house_analysis/assets/142780119/9d823896-194a-42f4-8d40-5f10cc36157a)
+![image](https://github.com/SteveRamasamy/house_analysis/assets/142780119/9df1f9a2-87e9-4eb1-8391-5e39899b5eb6)
+
+
+
+
