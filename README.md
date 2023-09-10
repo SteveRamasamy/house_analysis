@@ -1,4 +1,4 @@
-# Property Market Analysis
+# Property Market Analysis.
 The property market in Perth, Western Australia, like any other, is influenced by a multitude of factors, each exerting varying degrees of impact. This creates a complex tapestry within the real estate landscape. In this study, I have endeavored to dissect the influence of specific variables such as the number of rooms, property age, and land size, all intricately intertwined with the proximity to key locations like the CBD, coastal regions, and the Swan River on property prices.
 
 Through rigorous statistical and analytical analysis of property data encompassing features like land area, number of bedrooms, and bathrooms, it becomes evident that these property characteristics hold a significant correlation with property values. Notably, property values exhibited a noteworthy increase of approximately 37% and 40% , when the number of bedrooms increased from 4 to 5 and 8 to 9, respectively. This observation finds validation through various statistical methods, including Ordinary Least Square, Student's T test, and Linear Regression analyses.
